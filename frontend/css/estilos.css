@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+}
+.contenedor{
+    background-color: blue;
+}
+.login{
+    border-right: 1px solid black;
+}
+.registrate{
+    text-transform: uppercase;
+}
